@@ -23,10 +23,10 @@ Os CPFs a serem testados estão no arquivo `blacklist.txt`.
 Como entregar este teste
 -----
 
-Esse teste é público. Todos os interessados que fizerem pull request receberão um feedback da equipe
-Otimiza Benefícios
-
-1. Faça um fork deste repositório;
-2. Crie uma branch com o seu nome.
-2. Adicione seu currículo na raiz do repositório.
-3. Envie-nos o PULL-REQUEST para que seja avaliado.
+    Esse teste é público. Todos os interessados que fizerem pull request receberão um feedback da equipe
+    Otimiza Benefícios
+    
+    1. Faça um fork deste repositório;
+    2. Crie uma branch com o seu nome.
+    3. Adicione seu currículo na raiz do repositório.
+    4. Envie-nos o PULL-REQUEST para que seja avaliado.
